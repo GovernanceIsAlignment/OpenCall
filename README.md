@@ -42,7 +42,7 @@ Let's draw an analogy here:
 
 
 Throughout history, humans have purposefully introduced species into foreign environments, which in the overwhelming majority of such cases, concluded with an "Oh shit" moment.\
-You can google "Cane toad Australia".
+(One such instance you can google: "Cane toad Australia").
 
 
 
