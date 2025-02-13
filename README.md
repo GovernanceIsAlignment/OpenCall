@@ -61,9 +61,9 @@ Most of the time, humans assumed that their actions and outcomes could be explai
 
 
 
-I believe a compelling argument can be made that those currently building AGI display the same kind of oversight/blindness.
+I believe a compelling argument can be made that those currently building AI display the same kind of oversight/blindness about introducing AGI/ASI to the world.
 
-If AI safety is only formulated in terms of "how safe/aligned to human values", maybe the value of the field in term of "description and prediction of reality" is missing the fact that AGI won't be aligned in a vacuum, and that its effect on reality are to be thought systemically.
+If AI safety is only formulated in terms of "how safe/aligned to human values", maybe the value of the field in term of "description and prediction of reality" is missing the fact that AGI/ASI won't be aligned in a vacuum, and that its effect on reality are to be thought systemically.
 
 Maybe, the goal of that field (and AGI labs) should rather be that "Human civilisation as a whole, follows an historical path aligned with human values". Maybe Alignment's goal should be, rather than aiming at building a "safe" AGI/ASI, asking about what final state of the complexe system world/humanity/civilization will result from AGI/ASI beeing built.
 
@@ -73,7 +73,7 @@ Maybe, the goal of that field (and AGI labs) should rather be that "Human civili
 
 ## Why misalignment is the current default path
 
-If we frame alignment as “maximizing the likelihood of an outcome that, if described to you, seems aligned with human values” then the actual results for humanity/economy/society of the creation of AGI might appear to be determined less by the AGI/ASI’s intrinsic safety mechanisms, and more by the external environment and power structures in which that system operates.
+If we frame alignment as “maximizing the likelihood of an outcome for mankind that, if described to you, seems aligned with human values” then the actual results for humanity/economy/society of the creation of AGI/ASI might appear to be determined less by the AGI/ASI’s intrinsic safety mechanisms, and more by the external environment and power structures in which that system operates.
 
 
 
@@ -155,6 +155,6 @@ The goal of this repo, in the coming weeks/months, will be to make the best poss
 
 As well as (and to be clear, I don't believe I made that point thoroughly enough to be convincing in this intro):
 
-> If you formulate Alignment in terms of "what state does AGI/ASI creation lead the system `human civilisation` to: Alignment can be reduced to governance.
+> If you formulate Alignment in terms of "what state does AGI/ASI creation lead the system `human civilisation` to: Alignment can be reduced to governance".
 
 
