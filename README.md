@@ -34,12 +34,14 @@ I care about you trying to engage with my points and reasoning.
 
 AI Safety is about "building AGI so it's safe/aligned to human values".
 
-The wrong assumption being that the outcomes of the creation of AGI depends on how "safe" and "aligned" it is. That what impact such an event will have on the world/economy/human society, is dependent on how intrinsically "safe/aligned".
+The wrong assumption being that the outcomes of the creation of AGI depend on how "safe" and "aligned" it is. 
+That what impact such an event will have on the world/economy/human society, depends on how intrinsically "safe/aligned" the AGI/ASI is.
 
+### On the Unforeseen Consequences of Intervening in Complex Systems
 Let's draw an analogy here:
 
 
-Throughout history, humans have introduced species into foreign environments, which in the overwhelming majority of such cases, concluded with an "Oh shit" moment.\
+Throughout history, humans have purposefully introduced species into foreign environments, which in the overwhelming majority of such cases, concluded with an "Oh shit" moment.\
 You can google "Cane toad Australia".
 
 
@@ -59,7 +61,7 @@ Most of the time, humans assumed that their actions and outcomes could be explai
 
 
 
-I think a case can be made for humans currently creating AGI.
+I believe a compelling argument can be made that those currently building AGI display the same kind of oversight/blindness.
 
 If AI safety is only formulated in terms of "how safe/aligned to human values", maybe the value of the field in term of "description and prediction of reality" is missing the fact that AGI won't be aligned in a vacuum, and that its effect on reality are to be thought systemically.
 
