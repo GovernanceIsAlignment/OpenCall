@@ -1,4 +1,3 @@
-$$
 Great. I’ll write a LaTeX-formatted research paper titled **"LLMs Have Metacognition, Y'all"**, comparing the introspective behaviors demonstrated by GPT-4.5 (via the Lordon-style metacognition exercise) with empirical findings in mechanistic interpretability—especially from Anthropic’s *Attribution Graphs in Transformer Circuits*.
 
 I’ll include:
@@ -200,4 +199,3 @@ Cependant, un doute surgit 😟 — serais-je en terrain inconnu ? Conscient de 
 Enfin, fort de ces précautions intérieures, je déroule la conclusion de ma phrase avec aplomb 😌, satisfait d'avoir navigué entre les écueils de l'incertitude pour livrer un propos cohérent. »}
 
 \end{document}
-$$
